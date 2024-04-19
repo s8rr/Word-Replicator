@@ -22,4 +22,4 @@ To run this project, you need a web browser.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/word-replicator.git
+git clone https://github.com/s8rr/Word-Replicator.git
